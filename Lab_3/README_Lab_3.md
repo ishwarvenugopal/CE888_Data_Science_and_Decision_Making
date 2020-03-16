@@ -1,5 +1,7 @@
 # CE888_2020
 
+#### Solution file: Lab_3_solution.ipynb
+
 ## Lab 3: Data Exploration 
 
 **Task 1:** Check the counts of each wine class
