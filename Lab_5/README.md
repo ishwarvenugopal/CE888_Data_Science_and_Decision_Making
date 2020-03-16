@@ -1,5 +1,7 @@
 # Lab 5 - Recommender systems
 
+#### Solution file: my_recommender.ipynb
+
 ## Resources
 
 * rec_latent.ipynb contains the code shown in the lecture for a recommender system based on latent features
