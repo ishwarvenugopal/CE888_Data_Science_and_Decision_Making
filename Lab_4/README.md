@@ -1,5 +1,7 @@
 # Lab 4 - Modelling
 
+#### Solution file: bank_classification.ipynb
+
 ## Ipython notebooks
 
 * facebook_regression.ipynb and facebook_classification.ipynb contain the code used in the lecture.
